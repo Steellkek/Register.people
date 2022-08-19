@@ -1,0 +1,425 @@
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\Register_people.dll
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\Register_people.pdb
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\roslyn\csc.exe
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\roslyn\csc.exe.config
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\roslyn\csc.rsp
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\roslyn\csi.exe
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\roslyn\csi.exe.config
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\roslyn\csi.rsp
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\roslyn\System.AppContext.dll
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\roslyn\System.Console.dll
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\roslyn\System.IO.Compression.dll
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\roslyn\System.IO.Pipes.dll
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\roslyn\System.Security.Claims.dll
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\roslyn\System.ValueTuple.dll
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\roslyn\System.Xml.XPath.dll
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\roslyn\vbc.exe
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\roslyn\vbc.exe.config
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\roslyn\vbc.rsp
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\roslyn\VBCSCompiler.exe
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\Antlr3.Runtime.dll
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\IBM.Data.Informix.dll
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\Newtonsoft.Json.dll
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\Ninject.dll
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\Ninject.Web.Common.dll
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\Ninject.Web.Mvc.dll
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\System.Web.Helpers.dll
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\System.Web.Mvc.dll
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\System.Web.Optimization.dll
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\System.Web.Razor.dll
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\System.Web.WebPages.Deployment.dll
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\System.Web.WebPages.dll
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\System.Web.WebPages.Razor.dll
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\WebGrease.dll
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\Ninject.xml
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\Ninject.Web.Common.xml
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\Ninject.Web.Mvc.xml
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\System.Web.Helpers.xml
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\System.Web.Mvc.xml
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\System.Web.Optimization.xml
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\System.Web.Razor.xml
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\System.Web.WebPages.xml
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\System.Web.WebPages.Deployment.xml
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\System.Web.WebPages.Razor.xml
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\Newtonsoft.Json.xml
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\Antlr3.Runtime.pdb
+C:\Users\alyam\RiderProjects\Register people\Register people\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alyam\RiderProjects\Register people\Register people\obj\Debug\Register people.csproj.AssemblyReference.cache
+C:\Users\alyam\RiderProjects\Register people\Register people\obj\Debug\Register people.csproj.CoreCompileInputs.cache
+C:\Users\alyam\RiderProjects\Register people\Register people\obj\Debug\Register people.csproj.CopyComplete
+C:\Users\alyam\RiderProjects\Register people\Register people\obj\Debug\Register_people.dll
+C:\Users\alyam\RiderProjects\Register people\Register people\obj\Debug\Register_people.pdb
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\Register_people.dll.config
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\Register_people.dll
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\Register_people.pdb
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\roslyn\csc.exe
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\roslyn\csc.exe.config
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\roslyn\csc.rsp
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\roslyn\csi.exe
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\roslyn\csi.exe.config
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\roslyn\csi.rsp
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\roslyn\System.AppContext.dll
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\roslyn\System.Console.dll
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\roslyn\System.IO.Compression.dll
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\roslyn\System.IO.Pipes.dll
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\roslyn\System.Security.Claims.dll
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\roslyn\System.ValueTuple.dll
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\roslyn\System.Xml.XPath.dll
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\roslyn\vbc.exe
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\roslyn\vbc.exe.config
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\roslyn\vbc.rsp
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\roslyn\VBCSCompiler.exe
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\Antlr3.Runtime.dll
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\Newtonsoft.Json.dll
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\Ninject.dll
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\Ninject.Web.Common.dll
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\Ninject.Web.Mvc.dll
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\System.Web.Helpers.dll
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\System.Web.Mvc.dll
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\System.Web.Optimization.dll
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\System.Web.Razor.dll
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\System.Web.WebPages.Deployment.dll
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\System.Web.WebPages.dll
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\System.Web.WebPages.Razor.dll
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\WebGrease.dll
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\Ninject.xml
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\Ninject.Web.Common.xml
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\Ninject.Web.Mvc.xml
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\System.Web.Helpers.xml
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\System.Web.Mvc.xml
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\System.Web.Optimization.xml
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\System.Web.Razor.xml
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\System.Web.WebPages.xml
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\System.Web.WebPages.Deployment.xml
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\System.Web.WebPages.Razor.xml
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\Newtonsoft.Json.xml
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\Antlr3.Runtime.pdb
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\obj\Debug\Register people.csprojAssemblyReference.cache
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\obj\Debug\Register people.csproj.CoreCompileInputs.cache
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\obj\Debug\Register people.csproj.CopyComplete
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\obj\Debug\Register_people.dll
+C:\Users\zhkh.stazher8\source\repos\Register people\Register people\obj\Debug\Register_people.pdb
+C:\Users\User\RiderProjects\Register people\Register people\bin\Register_people.dll
+C:\Users\User\RiderProjects\Register people\Register people\bin\Register_people.pdb
+C:\Users\User\RiderProjects\Register people\Register people\bin\roslyn\csc.exe
+C:\Users\User\RiderProjects\Register people\Register people\bin\roslyn\csc.exe.config
+C:\Users\User\RiderProjects\Register people\Register people\bin\roslyn\csc.rsp
+C:\Users\User\RiderProjects\Register people\Register people\bin\roslyn\csi.exe
+C:\Users\User\RiderProjects\Register people\Register people\bin\roslyn\csi.exe.config
+C:\Users\User\RiderProjects\Register people\Register people\bin\roslyn\csi.rsp
+C:\Users\User\RiderProjects\Register people\Register people\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\RiderProjects\Register people\Register people\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\RiderProjects\Register people\Register people\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\RiderProjects\Register people\Register people\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\RiderProjects\Register people\Register people\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\RiderProjects\Register people\Register people\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\RiderProjects\Register people\Register people\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\RiderProjects\Register people\Register people\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\RiderProjects\Register people\Register people\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\RiderProjects\Register people\Register people\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\RiderProjects\Register people\Register people\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\RiderProjects\Register people\Register people\bin\roslyn\System.AppContext.dll
+C:\Users\User\RiderProjects\Register people\Register people\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\RiderProjects\Register people\Register people\bin\roslyn\System.Console.dll
+C:\Users\User\RiderProjects\Register people\Register people\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\RiderProjects\Register people\Register people\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\RiderProjects\Register people\Register people\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\RiderProjects\Register people\Register people\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\RiderProjects\Register people\Register people\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\RiderProjects\Register people\Register people\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\RiderProjects\Register people\Register people\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\RiderProjects\Register people\Register people\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\RiderProjects\Register people\Register people\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\RiderProjects\Register people\Register people\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\RiderProjects\Register people\Register people\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\RiderProjects\Register people\Register people\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\RiderProjects\Register people\Register people\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\RiderProjects\Register people\Register people\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\RiderProjects\Register people\Register people\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\RiderProjects\Register people\Register people\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\RiderProjects\Register people\Register people\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\RiderProjects\Register people\Register people\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\RiderProjects\Register people\Register people\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\RiderProjects\Register people\Register people\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\RiderProjects\Register people\Register people\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\RiderProjects\Register people\Register people\bin\roslyn\vbc.exe
+C:\Users\User\RiderProjects\Register people\Register people\bin\roslyn\vbc.exe.config
+C:\Users\User\RiderProjects\Register people\Register people\bin\roslyn\vbc.rsp
+C:\Users\User\RiderProjects\Register people\Register people\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\RiderProjects\Register people\Register people\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\RiderProjects\Register people\Register people\bin\Antlr3.Runtime.dll
+C:\Users\User\RiderProjects\Register people\Register people\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\RiderProjects\Register people\Register people\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\RiderProjects\Register people\Register people\bin\Newtonsoft.Json.dll
+C:\Users\User\RiderProjects\Register people\Register people\bin\Ninject.dll
+C:\Users\User\RiderProjects\Register people\Register people\bin\Ninject.Web.Common.dll
+C:\Users\User\RiderProjects\Register people\Register people\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\User\RiderProjects\Register people\Register people\bin\Ninject.Web.Mvc.dll
+C:\Users\User\RiderProjects\Register people\Register people\bin\System.Web.Helpers.dll
+C:\Users\User\RiderProjects\Register people\Register people\bin\System.Web.Mvc.dll
+C:\Users\User\RiderProjects\Register people\Register people\bin\System.Web.Optimization.dll
+C:\Users\User\RiderProjects\Register people\Register people\bin\System.Web.Razor.dll
+C:\Users\User\RiderProjects\Register people\Register people\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\RiderProjects\Register people\Register people\bin\System.Web.WebPages.dll
+C:\Users\User\RiderProjects\Register people\Register people\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\RiderProjects\Register people\Register people\bin\WebGrease.dll
+C:\Users\User\RiderProjects\Register people\Register people\bin\Ninject.xml
+C:\Users\User\RiderProjects\Register people\Register people\bin\Ninject.Web.Common.xml
+C:\Users\User\RiderProjects\Register people\Register people\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\User\RiderProjects\Register people\Register people\bin\Ninject.Web.Mvc.xml
+C:\Users\User\RiderProjects\Register people\Register people\bin\System.Web.Helpers.xml
+C:\Users\User\RiderProjects\Register people\Register people\bin\System.Web.Mvc.xml
+C:\Users\User\RiderProjects\Register people\Register people\bin\System.Web.Optimization.xml
+C:\Users\User\RiderProjects\Register people\Register people\bin\System.Web.Razor.xml
+C:\Users\User\RiderProjects\Register people\Register people\bin\System.Web.WebPages.xml
+C:\Users\User\RiderProjects\Register people\Register people\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\RiderProjects\Register people\Register people\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\RiderProjects\Register people\Register people\bin\Newtonsoft.Json.xml
+C:\Users\User\RiderProjects\Register people\Register people\bin\Antlr3.Runtime.pdb
+C:\Users\User\RiderProjects\Register people\Register people\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\RiderProjects\Register people\Register people\obj\Debug\Register people.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\Register people\Register people\obj\Debug\Register people.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\Register people\Register people\obj\Debug\Register people.csproj.CopyComplete
+C:\Users\User\RiderProjects\Register people\Register people\obj\Debug\Register_people.dll
+C:\Users\User\RiderProjects\Register people\Register people\obj\Debug\Register_people.pdb
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\obj\Debug\Register people.csprojAssemblyReference.cache
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\obj\Debug\Register people.csproj.CoreCompileInputs.cache
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\obj\Debug\Register_people.dll
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\obj\Debug\Register_people.pdb
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\Register_people.dll.config
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\Register_people.dll
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\Register_people.pdb
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\roslyn\csc.exe
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\roslyn\csc.exe.config
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\roslyn\csc.rsp
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\roslyn\csi.exe
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\roslyn\csi.exe.config
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\roslyn\csi.rsp
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\roslyn\System.AppContext.dll
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\roslyn\System.Console.dll
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\roslyn\System.IO.Compression.dll
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\roslyn\System.IO.Pipes.dll
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\roslyn\System.Security.Claims.dll
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\roslyn\System.ValueTuple.dll
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\roslyn\System.Xml.XPath.dll
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\roslyn\vbc.exe
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\roslyn\vbc.exe.config
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\roslyn\vbc.rsp
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\roslyn\VBCSCompiler.exe
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\Antlr3.Runtime.dll
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\IBM.Data.Informix.dll
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\Newtonsoft.Json.dll
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\Ninject.dll
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\Ninject.Web.Common.dll
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\Ninject.Web.Mvc.dll
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\System.Web.Helpers.dll
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\System.Web.Mvc.dll
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\System.Web.Optimization.dll
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\System.Web.Razor.dll
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\System.Web.WebPages.Deployment.dll
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\System.Web.WebPages.dll
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\System.Web.WebPages.Razor.dll
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\WebGrease.dll
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\Ninject.xml
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\Ninject.Web.Common.xml
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\Ninject.Web.Mvc.xml
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\System.Web.Helpers.xml
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\System.Web.Mvc.xml
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\System.Web.Optimization.xml
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\System.Web.Razor.xml
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\System.Web.WebPages.xml
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\System.Web.WebPages.Deployment.xml
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\System.Web.WebPages.Razor.xml
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\Newtonsoft.Json.xml
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\Antlr3.Runtime.pdb
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\zhkh.stazher8\source\repos\registor_people\Register people\obj\Debug\Register people.csproj.CopyComplete
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\Register_people.dll.config
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\Register_people.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\Register_people.pdb
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\roslyn\csc.exe
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\roslyn\csc.exe.config
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\roslyn\csc.rsp
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\roslyn\csi.exe
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\roslyn\csi.exe.config
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\roslyn\csi.rsp
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\roslyn\System.AppContext.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\roslyn\System.Console.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\roslyn\System.IO.Compression.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\roslyn\System.IO.Pipes.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\roslyn\System.Security.Claims.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\roslyn\System.ValueTuple.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\roslyn\System.Xml.XPath.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\roslyn\vbc.exe
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\roslyn\vbc.exe.config
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\roslyn\vbc.rsp
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\roslyn\VBCSCompiler.exe
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\Antlr3.Runtime.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\FastReport.Compat.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\FastReport.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\FastReport.OpenSource.Export.PdfSimple.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\IBM.Data.Informix.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\Newtonsoft.Json.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\Ninject.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\Ninject.Web.Common.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\Ninject.Web.Mvc.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\System.Web.Helpers.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\System.Web.Mvc.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\System.Web.Optimization.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\System.Web.Razor.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\System.Web.WebPages.Deployment.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\System.Web.WebPages.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\System.Web.WebPages.Razor.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\WebGrease.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\FastReport.xml
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\Ninject.xml
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\Ninject.Web.Common.xml
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\Ninject.Web.Mvc.xml
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\System.Web.Helpers.xml
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\System.Web.Mvc.xml
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\System.Web.Optimization.xml
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\System.Web.Razor.xml
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\System.Web.WebPages.xml
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\System.Web.WebPages.Deployment.xml
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\System.Web.WebPages.Razor.xml
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\Newtonsoft.Json.xml
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\Antlr3.Runtime.pdb
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\obj\Debug\Register people.csprojAssemblyReference.cache
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\obj\Debug\Register people.csproj.CoreCompileInputs.cache
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\obj\Debug\Register people.csproj.CopyComplete
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\obj\Debug\Register_people.dll
+C:\Users\zhkh.stazher8\RiderProjects\Register\Register people\obj\Debug\Register_people.pdb

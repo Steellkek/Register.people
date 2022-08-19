@@ -1,0 +1,68 @@
+{
+  "success": true,
+  "persons": [
+    {
+      "id": 1,
+      "firstname": "Артур",
+      "lastname": "Миникаев",
+      "birthdate": "06/21/2002",
+      "patronymic": "Альбертович"
+    },
+    {
+      "id": 2,
+      "firstname": "Артур",
+      "lastname": "Миникаев",
+      "birthdate": "06/21/2002",
+      "patronymic": "Альбертович"
+    },
+    {
+      "id": 3,
+      "firstname": "Артур",
+      "lastname": "Миникаев",
+      "birthdate": "06/21/2002",
+      "patronymic": "Альбертович"
+    },
+    {
+      "id": 4,
+      "firstname": "Артур",
+      "lastname": "Миникаев",
+      "birthdate": "06/21/2002",
+      "patronymic": "Альбертович"
+    },
+    {
+      "id": 5,
+      "firstname": "Артур",
+      "lastname": "Миникаев",
+      "birthdate": "06/21/2002",
+      "patronymic": "Альбертович"
+    },
+    {
+      "id": 6,
+      "firstname": "Артур",
+      "lastname": "Миникаев",
+      "birthdate": "06/21/2002",
+      "patronymic": "Альбертович"
+    },
+    {
+      "id": 7,
+      "firstname": "Артур",
+      "lastname": "Миникаев",
+      "birthdate": "06/21/2002",
+      "patronymic": "Альбертович"
+    },
+    {
+      "id": 8,
+      "firstname": "Артур",
+      "lastname": "Миникаев",
+      "birthdate": "06/21/2002",
+      "patronymic": "Альбертович"
+    },
+    {
+      "id": 8,
+      "firstname": "Артур",
+      "lastname": "Миникаев",
+      "birthdate": "06/21/2002",
+      "patronymic": "Альбертович"
+    }
+  ]
+}

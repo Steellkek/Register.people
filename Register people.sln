@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Register people", "Register people\Register people.csproj", "{613C303E-16CC-4A21-9B86-75A7F6E905F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{613C303E-16CC-4A21-9B86-75A7F6E905F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{613C303E-16CC-4A21-9B86-75A7F6E905F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{613C303E-16CC-4A21-9B86-75A7F6E905F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{613C303E-16CC-4A21-9B86-75A7F6E905F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
