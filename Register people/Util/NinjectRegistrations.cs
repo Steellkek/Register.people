@@ -1,12 +1,8 @@
 ﻿using Ninject.Modules;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 using Register_people.Interface;
 using Register_people.Repository;
 
-namespace WebApplication1.Util
+namespace Register_people.Util
 {
     public class NinjectRegistrations : NinjectModule
     {

@@ -63,7 +63,7 @@
         },];
         this.buttons = [{
             text: 'Выход',
-            formBind: true, //only enabled once the form is valid
+            formBind: true,
             scope: this,
             action: 'exit',
         },{

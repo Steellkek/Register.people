@@ -24,8 +24,8 @@ namespace Register_people.Controllers
         {
             try
             {
-                List<Person> ListPersons = JsonConvert.DeserializeObject<List<Person>>(persons);
-                return _report.Generate(ListPersons);
+                List<Person> listPersons = JsonConvert.DeserializeObject<List<Person>>(persons);
+                return _report.Generate(listPersons);
 
             }
             catch (Exception)

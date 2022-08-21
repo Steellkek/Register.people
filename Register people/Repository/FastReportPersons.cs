@@ -21,18 +21,16 @@ namespace Register_people.Repository
                 rep.RegisterData(listPersons, "PersonsRef");
                 if (rep.Report.Prepare())
                 {
-                    using (                FastReport.Export.PdfSimple.PDFSimpleExport pdfExport =
-                           new FastReport.Export.PdfSimple.PDFSimpleExport())
+                    using (FastReport.Export.PdfSimple.PDFSimpleExport pdfExport = new FastReport.Export.PdfSimple.PDFSimpleExport())
                     {
                         pdfExport.ShowProgress = false;
                         pdfExport.Subject = "Subject Report";
-                        pdfExport.Title = "Report Title";
+                        pdfExport.Title = "Реестр граждан";
                         MemoryStream ms = new MemoryStream();
                         rep.Report.Export(pdfExport, ms);
                         pdfExport.Dispose();
                         ms.Position = 0;
-                        FileStreamResult result = new FileStreamResult(ms, "application/pdf");
-                        return result;
+                        return new FileStreamResult(ms, "application/pdf");
                     }
                 }
                 else

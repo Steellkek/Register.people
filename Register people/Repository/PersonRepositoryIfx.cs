@@ -17,7 +17,7 @@ namespace Register_people.Repository
         /// <returns></returns>
         private List<Person> FromDbToList(string cmd)
         {
-            List<Person> list = new List<Person>();
+            List<Person> listPersons = new List<Person>();
             using (var db = new IfxConnection(ConfigurationManager.ConnectionStrings["ConnectionString"].ConnectionString))
             {
                 db.Open();
@@ -32,13 +32,13 @@ namespace Register_people.Repository
                         person.LastName = (string)reader.GetValue(2);
                         person.Patronymic = (string)reader.GetValue(3);
                         person.Birthdate = (DateTime)reader.GetValue(4);
-                        list.Add(person);
+                        listPersons.Add(person);
                     }
                 }
                
             }
 
-            return list;
+            return listPersons;
         }
         public List<Person> AllPersons()
         {

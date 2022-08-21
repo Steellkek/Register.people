@@ -346,7 +346,7 @@
                 }
             },
             failure: function (response) {
-                Ext.Msg.alert('Ошибка', 'Запрос провалился');
+                Ext.Msg.alert('Ошибка', 'Не удалось отправить данные!');
             }
         });
     },
@@ -367,7 +367,7 @@
                 }
             },
             failure: function (response) {
-                Ext.Msg.alert('Ошибка', 'Запрос провалился');
+                Ext.Msg.alert('Ошибка', 'Не удалось отправить данные!');
             }
         });
     },
@@ -391,7 +391,7 @@
                 }
             },
             failure: function (response) {
-                Ext.Msg.alert('Ошибка', 'Запрос провалился');
+                Ext.Msg.alert('Ошибка', 'Не удалось отправить данные!');
             }
         });
     }

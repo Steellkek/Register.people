@@ -8,7 +8,6 @@
 
     initComponent: function () {
         this.columns = [
-            { dataIndex: 'Id',hideable: false, hidden: true },
             { header: 'Фамилия', dataIndex: 'LastName', flex: 1 },
             { header: 'Имя', dataIndex: 'FirstName', flex: 1},
             { header: 'Отчество', dataIndex: 'Patronymic', flex: 1 },

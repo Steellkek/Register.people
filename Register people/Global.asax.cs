@@ -8,7 +8,7 @@ using System.Web.Routing;
 using Ninject;
 using Ninject.Modules;
 using Ninject.Web.Mvc;
-using WebApplication1.Util;
+using Register_people.Util;
 
 namespace Register_people
 {
