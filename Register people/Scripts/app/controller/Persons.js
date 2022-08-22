@@ -95,7 +95,7 @@
                     Ext.Msg.show({
                         closable: false,
                         title: 'Предупреждение',
-                        msg: 'Добавить данного пользователя?',
+                        msg: 'Добавить данную анкету?',
                         scope:this,
                         buttons: Ext.Msg.YESNO,
                         buttonText: {
@@ -173,16 +173,31 @@
                     }
                 });
             } else {
-                var record = Object.assign({},form.getValues())
-                if ((record.Start==='') || (record.End==='') || (Ext.Date.parse(record.Start, "d.m.Y")<=Ext.Date.parse(record.End, "d.m.Y"))){
-                    record.FirstName =record.FirstName.trim().replace(/\s+/g, ' ')
-                    record.LastName =record.LastName.trim().replace(/\s+/g, ' ')
-                    record.Patronymic =record.Patronymic.trim().replace(/\s+/g, ' ')
-                    this.requestAskedPersons(record)
-                }
-                else {
-                    Ext.Msg.alert('Предупреждение', 'Сделайте "Начало даты"<="Конец даты"');
-                }
+                Ext.Msg.show({
+                    title: 'Предупреждение',
+                    msg: "Будут выведены все анкеты по данному поиску. Продолжить?",
+                    buttons: Ext.Msg.YESNO,
+                    scope:this,
+                    closable: false,
+                    buttonText: {
+                        yes: 'Да',
+                        no: 'Нет'
+                    },fn: function (btnText) {
+                        if (btnText === "yes") {
+
+                            var record = Object.assign({}, form.getValues())
+                            if ((record.Start === '') || (record.End === '') || (Ext.Date.parse(record.Start, "d.m.Y") <= Ext.Date.parse(record.End, "d.m.Y"))) {
+                                record.FirstName = record.FirstName.trim().replace(/\s+/g, ' ')
+                                record.LastName = record.LastName.trim().replace(/\s+/g, ' ')
+                                record.Patronymic = record.Patronymic.trim().replace(/\s+/g, ' ')
+                                this.requestAskedPersons(record)
+                            } else {
+                                Ext.Msg.alert('Предупреждение', 'Сделайте "Начало даты"<="Конец даты"');
+                            }
+                        }
+                    }
+                });
+
             }
         }
     },
@@ -259,7 +274,10 @@
                         break;
 
                     case -1:
-                        Ext.Msg.alert('Ошибка -1', 'Данный гражданин не найден');
+                        Ext.Msg.alert('Ошибка -1', 'Данный гражданин не найден и удален из списка.');
+                        Ext.Msg.alert('Успешно', 'Данный гражданин удален');
+                        var store = Ext.getCmp('membergrid').getStore()
+                        store.remove(record);
                         break;
                     case -2:
                         Ext.Msg.alert('Ошибка -2', 'Проблема с подключением к бд');
@@ -336,7 +354,10 @@
                         store.remove(record);
                         break;
                     case -1:
-                        Ext.Msg.alert('Ошибка -1', 'Данный гражданин не найден');
+                        Ext.Msg.alert('Ошибка -1', 'Данный гражданин не найден и удален из списка.');
+                        Ext.Msg.alert('Успешно', 'Данный гражданин удален');
+                        var store = Ext.getCmp('membergrid').getStore()
+                        store.remove(record);
                         break;
                     case -2:
                         Ext.Msg.alert('Ошибка -2', 'Проблема с подключением к бд');

@@ -73,7 +73,11 @@ namespace Register_people.Repository
             stringCommand = stringCommand.Remove(stringCommand.Length - 3);
             return FromDbToList(stringCommand);
         }
-
+        /// <summary>
+        /// создание анкеты гражданина в бд
+        /// </summary>
+        /// <param name="pers"></param>
+        /// <returns>если все прошло, то возвращает id добавленной анкеты. Если произошла ошибка, то -2</returns>
         public int CreatePerson(Person pers)
         {
             try
@@ -96,7 +100,11 @@ namespace Register_people.Repository
                 return -2;
             }
         }
-
+        /// <summary>
+        /// Проверка на наличие анкеты в бд
+        /// </summary>
+        /// <param name="pers"></param>
+        /// <returns>true если нашел, иначе false</returns>
         public bool CheckPerson(Person pers)
         {
             using (var db = new IfxConnection(ConfigurationManager.ConnectionStrings["ConnectionString"].ConnectionString))
@@ -117,7 +125,11 @@ namespace Register_people.Repository
 
 
         }
-
+        /// <summary>
+        /// Удаление анкеты из бд
+        /// </summary>
+        /// <param name="Id"></param>
+        /// <returns>Если все прошло, то 2. Если анкета не найдена в бд, то -1. Если ошибка, то -2</returns>
         public int DeletePerson(int Id)
         {
             try
@@ -142,7 +154,11 @@ namespace Register_people.Repository
 
             return 2;
         }
-
+        /// <summary>
+        /// изменение анкеты в бд
+        /// </summary>
+        /// <param name="Id"></param>
+        /// <returns>Если все прошло, то 2. Если анкета не найдена в бд, то -1. Если ошибка, то -2</returns>
         public int EditPerson(Person pers)
         {
             try

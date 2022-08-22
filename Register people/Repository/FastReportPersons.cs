@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Configuration;
 using System.IO;
+using System.Text;
 using System.Web.Mvc;
 using FastReport;
 using Newtonsoft.Json;
@@ -25,10 +26,9 @@ namespace Register_people.Repository
                     {
                         pdfExport.ShowProgress = false;
                         pdfExport.Subject = "Subject Report";
-                        pdfExport.Title = "Реестр граждан";
+                        pdfExport.Title = "Register sitizens";
                         MemoryStream ms = new MemoryStream();
-                        rep.Report.Export(pdfExport, ms);
-                        pdfExport.Dispose();
+                        rep.Export(pdfExport, ms);
                         ms.Position = 0;
                         return new FileStreamResult(ms, "application/pdf");
                     }

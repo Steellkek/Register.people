@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Report ScriptLanguage="CSharp" ReportInfo.Created="08/19/2022 10:31:22" ReportInfo.Modified="08/19/2022 16:25:56" ReportInfo.CreatorVersion="1.0.0.0">
+<Report ScriptLanguage="CSharp" ReportInfo.Created="08/19/2022 10:31:22" ReportInfo.Modified="08/22/2022 12:46:36" ReportInfo.CreatorVersion="2022.2.17.0">
   <Dictionary>
     <BusinessObjectDataSource Name="Persons" ReferenceName="PersonsRef" DataType="null" Enabled="true">
       <Column Name="FirstName" DataType="System.String"/>
@@ -21,7 +21,7 @@
     <DataBand Name="Data1" Top="93.05" Width="718.2" Height="37.8" Border.Lines="All" DataSource="Persons">
       <TextObject Name="Text2" Width="179.55" Height="37.8" Border.Lines="All" Text="[Persons.LastName]" Font="Arial, 10pt"/>
       <TextObject Name="Text3" Left="349.65" Width="217.35" Height="37.8" Border.Lines="All" Text="[Persons.Patronymic]" Font="Arial, 10pt"/>
-      <TextObject Name="Text4" Left="567" Width="151.2" Height="37.8" Border.Lines="All" Text="[Persons.Birthdate]" Format="Date" Format.Format="d" Font="Arial, 10pt"/>
+      <TextObject Name="Text4" Left="567" Width="151.2" Height="37.8" Border.Lines="All" Text="[Persons.Birthdate]" Format="Date" Format.Format="d" HorzAlign="Center" Font="Arial, 10pt"/>
       <TextObject Name="Text1" Left="179.55" Width="170.1" Height="37.8" Border.Lines="All" Text="[Persons.FirstName]" Font="Arial, 10pt"/>
     </DataBand>
     <PageFooterBand Name="PageFooter1" Top="134.85" Width="718.2" Height="18.9">
